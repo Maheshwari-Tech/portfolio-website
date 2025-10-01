@@ -176,6 +176,10 @@ npm run build
 
 © 2025 Sanjay Gandhi. All rights reserved.
 
+## 🌐 Live Demo
+
+**Portfolio Website**: [https://online-sanju.netlify.app](https://online-sanju.netlify.app)
+
 ## 📞 Contact
 
 - **Email**: sanjaymaheshwari.work@gmail.com
