@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "role": "Software Engineer at TechCorp",
+    "review": "Sanjay provided excellent mentorship during my interview preparation. His guidance on system design was invaluable.",
+    "rating": 5,
+    "image": "/images/pexels-alesiakozik-6771664.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "role": "Product Manager at StartupXYZ",
+    "review": "The technical consultation helped us choose the right architecture for our new platform. Highly recommended!",
+    "rating": 5,
+    "image": "/images/pexels-ihor-lypnytskyi-117692765-16771747.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mike Johnson",
+    "role": "CTO at InnovateInc",
+    "review": "Sanjay's code review services improved our codebase significantly. Professional and insightful feedback.",
+    "rating": 5,
+    "image": "/images/pexels-leeloothefirst-8919521.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Sarah Wilson",
+    "role": "Data Scientist at AI Solutions",
+    "review": "Great session on machine learning best practices. Very knowledgeable and patient teacher.",
+    "rating": 5,
+    "image": "/images/pexels-tara-winstead-8386440.jpg"
+  },
+  {
+    "id": 5,
+    "name": "David Brown",
+    "role": "Full Stack Developer",
+    "review": "The interview preparation course covered all the important topics. Got my dream job thanks to Sanjay!",
+    "rating": 5,
+    "image": "/images/pexels-tiger-lily-7108094.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Emily Davis",
+    "role": "Engineering Manager",
+    "review": "Sanjay led our team through a complex system redesign. His expertise in distributed systems was crucial.",
+    "rating": 5,
+    "image": "/images/pexels-alesiakozik-6771664.jpg"
+  }
+]
