@@ -1,0 +1,79 @@
+{
+  "about": "Experienced Software Engineer with 5+ years of expertise in backend systems, distributed architectures, and cloud-native solutions. Certified Bar Raiser at Oracle, recognized for upholding technical excellence and guiding high-quality hiring decisions. Proven ability to design scalable systems in healthcare, education, and finance domains using Java, Python, Kafka, and OCI/AWS. Specialized in machine learning, applying techniques such as anomaly detection and generative AI to solve real-world problems and enhance system intelligence. Passionate about mentoring juniors, solving complex problems, and driving product impact through innovative technologies and continuous learning.",
+  "experience": [
+    {
+      "title": "Senior Member of Technical Staff (SDE-3) at Oracle",
+      "period": "April 2024 – Present, Bengaluru (Remote)",
+      "details": [
+        "Working in Healthcare domain in XR team responsible for Clinical Reporting and output management.",
+        "Architected and implemented mro-gen-services, a Java Micronaut-based solution for generating medical record outputs.",
+        "Migrated Cerner enterprise applications to a modern architecture.",
+        "Built and led the India Clinical Reporting team."
+      ]
+    },
+    {
+      "title": "Software Engineer-2 at Google",
+      "period": "Sept 2021 – Feb 2024, Bangalore (Hybrid)",
+      "details": [
+        "Worked in Search India Education Team, developing features for exam OSRPs.",
+        "Built the Exam Quiz feature and migrated architecture.",
+        "Launched localized Exam OSRP with support for multiple languages."
+      ]
+    },
+    {
+      "title": "Software Development Engineer-1 at Amazon",
+      "period": "July 2020 – Aug 2021, Hyderabad",
+      "details": [
+        "Worked in Finance Automation Team to detect anomalies and duplicates in invoices.",
+        "Implemented ML-based rules discovering over 100M USD anomalies.",
+        "Built APIs, monitoring dashboards, and used AWS CDK."
+      ]
+    },
+    {
+      "title": "Problem Curator Intern at HackerEarth",
+      "period": "Jan 2020 – June 2020, Bangalore",
+      "details": [
+        "Created and tested algorithmic problems for hiring contests.",
+        "Presented workshop on Advanced Data Structures and Algorithms."
+      ]
+    }
+  ],
+  "achievements": [
+    "Certified Bar-Tender (Bar-Raiser) at Oracle.",
+    "Oracle Cloud Infrastructure 2025 Certified Developer Professional",
+    "Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate",
+    "Oracle Cloud Infrastructure 2023 Certified Foundations Associate",
+    "CodeChef Certified Data Structures and Algorithms Programme (CCDSAP - advance)",
+    "Obtained 99.98* percentile score in eLitmus Test for Quantitative Aptitude.",
+    "Solved 1000+ problems on various competitive platforms.",
+    "30+ tech certifications over a decade; committed to continuous learning.",
+    "Participated in 3 hackathons, developing projects in ML and web development.",
+    "Secured World Rank 1 in Codechef October Challenge 2018 (DIV2).",
+    "Secured 2nd rank (out of 175 teams) in University Coding Contest at LPU.",
+    "Secured 5th rank in National Coding Contest 'ALOHOMORA' at NIT Durgapur.",
+    "Secured 21st rank in National Coding Contest at LNMIIT Jaipur.",
+    "Qualified for ACM-ICPC Regionals, secured 85th rank in Asia Gwalior-Pune Regional, 2018.",
+    "Secured 86th rank among 60,946 candidates in Rajasthan Pre-Engineering Test, 2014.",
+    "Secured 15,550 rank among 1.26 lakh candidates in JEE Advanced."
+  ],
+  "education": {
+    "degree": "B.Tech CSE (sp.: Machine Learning)",
+    "institution": "Lovely Professional University (Jalandhar, Punjab)",
+    "period": "July 2016 – May 2020",
+    "cgpa": "9.06/10"
+  },
+  "certifications": [
+    "Oracle Cloud Infrastructure 2025 Certified Developer Professional",
+    "Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate",
+    "Oracle Cloud Infrastructure 2023 Certified Foundations Associate",
+    "CodeChef Certified Data Structures and Algorithms Programme (CCDSAP - advance)"
+  ],
+  "technicalSkills": {
+    "programmingFrameworks": "Java, Python, C++, JavaScript, React, HTML, CSS, JS, MERN, Django, PHP",
+    "databases": "MySQL, DynamoDB, Elasticsearch, Redis, S3, Redshift(OLAP), MongoDB",
+    "machineLearningAI": "Numpy, Pandas, Scikit-Learn, Random Forest, SVM",
+    "distributedSystemsCloud": "Kafka, SQS, gRPC, WebSockets, AWS, OCI, Docker",
+    "tools": "Git, GitHub, IntelliJ, VSCode, Postman, MobaXTerm, SQL Workbench, Jenkins",
+    "softwareDevelopment": "System Design, Design Patterns, Refactoring, APIs, Unit Tests, Documentation, Teaching, Mentoring, Code Reviews"
+  }
+}

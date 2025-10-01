@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Mentorship",
+    "description": "I provide personalized guidance to help you navigate your software engineering career, from learning new technologies to career planning and growth."
+  },
+  {
+    "id": 2,
+    "title": "Technical Consultation",
+    "description": "Get expert advice on designing scalable systems, choosing the right technology stack, and solving complex technical challenges."
+  },
+  {
+    "id": 3,
+    "title": "Interview Preparation",
+    "description": "Comprehensive preparation for technical interviews including coding problems, system design, and behavioral questions to land your dream job."
+  },
+  {
+    "id": 4,
+    "title": "Code Reviews and Development",
+    "description": "Professional code review services to improve code quality, security, and maintainability, plus help with development tasks."
+  }
+]

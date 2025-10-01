@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Senior Member of Technical Staff (SDE-3) at Oracle",
+    "period": "April 2024 – Present, Bengaluru (Remote)",
+    "details": [
+      "Working in Healthcare domain in XR team responsible for Clinical Reporting and output management.",
+      "Architected and implemented mro-gen-services, a Java Micronaut-based solution for generating medical record outputs.",
+      "Migrated Cerner enterprise applications to a modern architecture.",
+      "Built and led the India Clinical Reporting team."
+    ]
+  },
+  {
+    "title": "Software Engineer-2 at Google",
+    "period": "Sept 2021 – Feb 2024, Bangalore (Hybrid)",
+    "details": [
+      "Worked in Search India Education Team, developing features for exam OSRPs.",
+      "Built the Exam Quiz feature and migrated architecture.",
+      "Launched localized Exam OSRP with support for multiple languages."
+    ]
+  },
+  {
+    "title": "Software Development Engineer-1 at Amazon",
+    "period": "July 2020 – Aug 2021, Hyderabad",
+    "details": [
+      "Worked in Finance Automation Team to detect anomalies and duplicates in invoices.",
+      "Implemented ML-based rules discovering over 100M USD anomalies.",
+      "Built APIs, monitoring dashboards, and used AWS CDK."
+    ]
+  },
+  {
+    "title": "Problem Curator Intern at HackerEarth",
+    "period": "Jan 2020 – June 2020, Bangalore",
+    "details": [
+      "Created and tested algorithmic problems for hiring contests.",
+      "Presented workshop on Advanced Data Structures and Algorithms."
+    ]
+  }
+]
