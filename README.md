@@ -159,11 +159,6 @@ The website is fully responsive and optimized for:
 npm run build
 ```
 
-### Deploy Options
-- **Netlify**: Connect GitHub repo for automatic deployments
-- **Vercel**: Import from GitHub with zero configuration
-- **GitHub Pages**: Use `gh-pages` package for deployment
-
 ## 🤝 Contributing
 
 1. Fork the repository
