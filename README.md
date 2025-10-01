@@ -81,7 +81,7 @@ portfolio-website/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/maheshwari-tech/portfolio-website.git
+   git clone https://github.com/Maheshwari-Tech/portfolio-website.git
    cd portfolio-website
    ```
 
