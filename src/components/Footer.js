@@ -14,7 +14,7 @@ function Footer() {
     <footer>
       <div className="footer-content">
         <div className="footer-logo">
-          <h3>Sanjay Gandhi</h3>
+          <h3>Shalini Thebaria</h3>
           <p>Software Engineer & Full Stack Developer</p>
         </div>
         <div className="footer-links">

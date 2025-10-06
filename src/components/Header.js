@@ -11,7 +11,7 @@ function Header() {
   return (
     <header>
       <nav>
-        <div className="logo">Sanjay Gandhi</div>
+        <div className="logo">Shalini Thebaria</div>
         <ul>
           <li><a href="#about" onClick={(e) => { e.preventDefault(); scrollToSection('about'); }}>About</a></li>
           <li><a href="#content" onClick={(e) => { e.preventDefault(); scrollToSection('content'); }}>Content</a></li>

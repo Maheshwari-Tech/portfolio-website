@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Personal\\portfolio-website\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Personal\\portfolio-website\\src\\components\\Footer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Footer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Personal\\portfolio-website\\src\\components\\Header.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Header.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Personal\\portfolio-website\\build\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:build\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Personal\\portfolio-website\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Personal\\portfolio-website\\public\\storage\\experience.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\storage\\experience.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -25,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Personal\\portfolio-website\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Personal\\portfolio-website\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Personal\\portfolio-website\\src\\components\\Services.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -85,10 +97,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Personal\\portfolio-website\\build\\images\\imageclass.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:build\\images\\imageclass.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Personal\\portfolio-website\\build\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:build\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Personal\\portfolio-website\\build\\asset-manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -154,263 +162,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "main.12f15d08.js",
-              "DocumentMoniker": "C:\\Personal\\portfolio-website\\build\\static\\js\\main.12f15d08.js",
-              "RelativeDocumentMoniker": "build\\static\\js\\main.12f15d08.js",
-              "ToolTip": "C:\\Personal\\portfolio-website\\build\\static\\js\\main.12f15d08.js",
-              "RelativeToolTip": "build\\static\\js\\main.12f15d08.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAACy6gIAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-10-06T14:38:45.95Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProfessionalExperience.js",
-              "DocumentMoniker": "C:\\Personal\\portfolio-website\\src\\components\\ProfessionalExperience.js",
-              "RelativeDocumentMoniker": "src\\components\\ProfessionalExperience.js",
-              "ToolTip": "C:\\Personal\\portfolio-website\\src\\components\\ProfessionalExperience.js",
-              "RelativeToolTip": "src\\components\\ProfessionalExperience.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-10-06T14:35:17.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "experience.json",
-              "DocumentMoniker": "C:\\Personal\\portfolio-website\\public\\storage\\experience.json",
-              "RelativeDocumentMoniker": "public\\storage\\experience.json",
-              "ToolTip": "C:\\Personal\\portfolio-website\\public\\storage\\experience.json",
-              "RelativeToolTip": "public\\storage\\experience.json",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwC8AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-06T14:34:57.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "index.js",
-              "DocumentMoniker": "C:\\Personal\\portfolio-website\\src\\index.js",
-              "RelativeDocumentMoniker": "src\\index.js",
-              "ToolTip": "C:\\Personal\\portfolio-website\\src\\index.js",
-              "RelativeToolTip": "src\\index.js",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Title": "Footer.js",
+              "DocumentMoniker": "C:\\Personal\\portfolio-website\\src\\components\\Footer.js",
+              "RelativeDocumentMoniker": "src\\components\\Footer.js",
+              "ToolTip": "C:\\Personal\\portfolio-website\\src\\components\\Footer.js",
+              "RelativeToolTip": "src\\components\\Footer.js",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwBAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-10-06T14:32:32.398Z",
+              "WhenOpened": "2025-10-06T14:49:52.442Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "App.js",
-              "DocumentMoniker": "C:\\Personal\\portfolio-website\\src\\App.js",
-              "RelativeDocumentMoniker": "src\\App.js",
-              "ToolTip": "C:\\Personal\\portfolio-website\\src\\App.js",
-              "RelativeToolTip": "src\\App.js",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Header.js",
+              "DocumentMoniker": "C:\\Personal\\portfolio-website\\src\\components\\Header.js",
+              "RelativeDocumentMoniker": "src\\components\\Header.js",
+              "ToolTip": "C:\\Personal\\portfolio-website\\src\\components\\Header.js",
+              "RelativeToolTip": "src\\components\\Header.js",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwA0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-10-06T14:32:25.381Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Services.js",
-              "DocumentMoniker": "C:\\Personal\\portfolio-website\\src\\components\\Services.js",
-              "RelativeDocumentMoniker": "src\\components\\Services.js",
-              "ToolTip": "C:\\Personal\\portfolio-website\\src\\components\\Services.js",
-              "RelativeToolTip": "src\\components\\Services.js",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-10-06T14:32:16.415Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Education.js",
-              "DocumentMoniker": "C:\\Personal\\portfolio-website\\src\\components\\Education.js",
-              "RelativeDocumentMoniker": "src\\components\\Education.js",
-              "ToolTip": "C:\\Personal\\portfolio-website\\src\\components\\Education.js",
-              "RelativeToolTip": "src\\components\\Education.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-10-06T14:32:05.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Blogs.js",
-              "DocumentMoniker": "C:\\Personal\\portfolio-website\\src\\components\\Blogs.js",
-              "RelativeDocumentMoniker": "src\\components\\Blogs.js",
-              "ToolTip": "C:\\Personal\\portfolio-website\\src\\components\\Blogs.js",
-              "RelativeToolTip": "src\\components\\Blogs.js",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-10-06T14:32:03.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Achievements.js",
-              "DocumentMoniker": "C:\\Personal\\portfolio-website\\src\\components\\Achievements.js",
-              "RelativeDocumentMoniker": "src\\components\\Achievements.js",
-              "ToolTip": "C:\\Personal\\portfolio-website\\src\\components\\Achievements.js",
-              "RelativeToolTip": "src\\components\\Achievements.js",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-10-06T14:31:59.916Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "achievements.json",
-              "DocumentMoniker": "C:\\Personal\\portfolio-website\\public\\storage\\achievements.json",
-              "RelativeDocumentMoniker": "public\\storage\\achievements.json",
-              "ToolTip": "C:\\Personal\\portfolio-website\\public\\storage\\achievements.json",
-              "RelativeToolTip": "public\\storage\\achievements.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-06T14:30:39.099Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "about.json",
-              "DocumentMoniker": "C:\\Personal\\portfolio-website\\public\\storage\\about.json",
-              "RelativeDocumentMoniker": "public\\storage\\about.json",
-              "ToolTip": "C:\\Personal\\portfolio-website\\public\\storage\\about.json",
-              "RelativeToolTip": "public\\storage\\about.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-06T14:30:10.876Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "react-hooks.jpg",
-              "DocumentMoniker": "C:\\Personal\\portfolio-website\\build\\images\\react-hooks.jpg",
-              "RelativeDocumentMoniker": "build\\images\\react-hooks.jpg",
-              "ToolTip": "C:\\Personal\\portfolio-website\\build\\images\\react-hooks.jpg",
-              "RelativeToolTip": "build\\images\\react-hooks.jpg",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-10-06T14:28:07.794Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Personal\\portfolio-website\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "C:\\Personal\\portfolio-website\\README.md",
-              "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAJoAAAAAAAAAAEBVwAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-10-06T14:18:10.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "server.js",
-              "DocumentMoniker": "C:\\Personal\\portfolio-website\\backend\\server.js",
-              "RelativeDocumentMoniker": "backend\\server.js",
-              "ToolTip": "C:\\Personal\\portfolio-website\\backend\\server.js",
-              "RelativeToolTip": "backend\\server.js",
-              "ViewState": "AgIAAFIAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-10-06T14:17:42.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "certifications.json",
-              "DocumentMoniker": "C:\\Personal\\portfolio-website\\build\\storage\\sanjay\\certifications.json",
-              "RelativeDocumentMoniker": "build\\storage\\sanjay\\certifications.json",
-              "ToolTip": "C:\\Personal\\portfolio-website\\build\\storage\\sanjay\\certifications.json",
-              "RelativeToolTip": "build\\storage\\sanjay\\certifications.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-06T14:17:07.189Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "about.json",
-              "DocumentMoniker": "C:\\Personal\\portfolio-website\\build\\storage\\sanjay\\about.json",
-              "RelativeDocumentMoniker": "build\\storage\\sanjay\\about.json",
-              "ToolTip": "C:\\Personal\\portfolio-website\\build\\storage\\sanjay\\about.json",
-              "RelativeToolTip": "build\\storage\\sanjay\\about.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-06T14:17:06.173Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "About.js",
-              "DocumentMoniker": "C:\\Personal\\portfolio-website\\src\\components\\About.js",
-              "RelativeDocumentMoniker": "src\\components\\About.js",
-              "ToolTip": "C:\\Personal\\portfolio-website\\src\\components\\About.js",
-              "RelativeToolTip": "src\\components\\About.js",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAwBEAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-10-06T14:16:58.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Personal\\portfolio-website\\public\\index.html",
-              "RelativeDocumentMoniker": "public\\index.html",
-              "ToolTip": "C:\\Personal\\portfolio-website\\public\\index.html",
-              "RelativeToolTip": "public\\index.html",
-              "ViewState": "AgIAABEAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-10-06T14:16:43.073Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "profile.jpg",
-              "DocumentMoniker": "C:\\Personal\\portfolio-website\\build\\images\\profile.jpg",
-              "RelativeDocumentMoniker": "build\\images\\profile.jpg",
-              "ToolTip": "C:\\Personal\\portfolio-website\\build\\images\\profile.jpg",
-              "RelativeToolTip": "build\\images\\profile.jpg",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-10-06T14:10:32.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "profilePic.jpg",
-              "DocumentMoniker": "C:\\Personal\\portfolio-website\\public\\images\\profilePic.jpg",
-              "RelativeDocumentMoniker": "public\\images\\profilePic.jpg",
-              "ToolTip": "C:\\Personal\\portfolio-website\\public\\images\\profilePic.jpg",
-              "RelativeToolTip": "public\\images\\profilePic.jpg",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-10-06T14:10:28.176Z",
+              "WhenOpened": "2025-10-06T14:49:31.311Z",
               "EditorCaption": ""
             },
             {
@@ -423,32 +200,270 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 7,
+              "Title": "main.12f15d08.js",
+              "DocumentMoniker": "C:\\Personal\\portfolio-website\\build\\static\\js\\main.12f15d08.js",
+              "RelativeDocumentMoniker": "build\\static\\js\\main.12f15d08.js",
+              "ToolTip": "C:\\Personal\\portfolio-website\\build\\static\\js\\main.12f15d08.js",
+              "RelativeToolTip": "build\\static\\js\\main.12f15d08.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAACy6gIAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-06T14:38:45.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProfessionalExperience.js",
+              "DocumentMoniker": "C:\\Personal\\portfolio-website\\src\\components\\ProfessionalExperience.js",
+              "RelativeDocumentMoniker": "src\\components\\ProfessionalExperience.js",
+              "ToolTip": "C:\\Personal\\portfolio-website\\src\\components\\ProfessionalExperience.js",
+              "RelativeToolTip": "src\\components\\ProfessionalExperience.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-06T14:35:17.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "experience.json",
+              "DocumentMoniker": "C:\\Personal\\portfolio-website\\public\\storage\\experience.json",
+              "RelativeDocumentMoniker": "public\\storage\\experience.json",
+              "ToolTip": "C:\\Personal\\portfolio-website\\public\\storage\\experience.json",
+              "RelativeToolTip": "public\\storage\\experience.json",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwC8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-06T14:34:57.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Personal\\portfolio-website\\src\\index.js",
+              "RelativeDocumentMoniker": "src\\index.js",
+              "ToolTip": "C:\\Personal\\portfolio-website\\src\\index.js",
+              "RelativeToolTip": "src\\index.js",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-06T14:32:32.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Personal\\portfolio-website\\src\\App.js",
+              "RelativeDocumentMoniker": "src\\App.js",
+              "ToolTip": "C:\\Personal\\portfolio-website\\src\\App.js",
+              "RelativeToolTip": "src\\App.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-06T14:32:25.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Services.js",
+              "DocumentMoniker": "C:\\Personal\\portfolio-website\\src\\components\\Services.js",
+              "RelativeDocumentMoniker": "src\\components\\Services.js",
+              "ToolTip": "C:\\Personal\\portfolio-website\\src\\components\\Services.js",
+              "RelativeToolTip": "src\\components\\Services.js",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-06T14:32:16.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Education.js",
+              "DocumentMoniker": "C:\\Personal\\portfolio-website\\src\\components\\Education.js",
+              "RelativeDocumentMoniker": "src\\components\\Education.js",
+              "ToolTip": "C:\\Personal\\portfolio-website\\src\\components\\Education.js",
+              "RelativeToolTip": "src\\components\\Education.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-06T14:32:05.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Blogs.js",
+              "DocumentMoniker": "C:\\Personal\\portfolio-website\\src\\components\\Blogs.js",
+              "RelativeDocumentMoniker": "src\\components\\Blogs.js",
+              "ToolTip": "C:\\Personal\\portfolio-website\\src\\components\\Blogs.js",
+              "RelativeToolTip": "src\\components\\Blogs.js",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-06T14:32:03.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Achievements.js",
+              "DocumentMoniker": "C:\\Personal\\portfolio-website\\src\\components\\Achievements.js",
+              "RelativeDocumentMoniker": "src\\components\\Achievements.js",
+              "ToolTip": "C:\\Personal\\portfolio-website\\src\\components\\Achievements.js",
+              "RelativeToolTip": "src\\components\\Achievements.js",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-06T14:31:59.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "achievements.json",
+              "DocumentMoniker": "C:\\Personal\\portfolio-website\\public\\storage\\achievements.json",
+              "RelativeDocumentMoniker": "public\\storage\\achievements.json",
+              "ToolTip": "C:\\Personal\\portfolio-website\\public\\storage\\achievements.json",
+              "RelativeToolTip": "public\\storage\\achievements.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-06T14:30:39.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "about.json",
+              "DocumentMoniker": "C:\\Personal\\portfolio-website\\public\\storage\\about.json",
+              "RelativeDocumentMoniker": "public\\storage\\about.json",
+              "ToolTip": "C:\\Personal\\portfolio-website\\public\\storage\\about.json",
+              "RelativeToolTip": "public\\storage\\about.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-06T14:30:10.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "react-hooks.jpg",
+              "DocumentMoniker": "C:\\Personal\\portfolio-website\\build\\images\\react-hooks.jpg",
+              "RelativeDocumentMoniker": "build\\images\\react-hooks.jpg",
+              "ToolTip": "C:\\Personal\\portfolio-website\\build\\images\\react-hooks.jpg",
+              "RelativeToolTip": "build\\images\\react-hooks.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-10-06T14:28:07.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Personal\\portfolio-website\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Personal\\portfolio-website\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAJoAAAAAAAAAAEBVwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-06T14:18:10.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "server.js",
+              "DocumentMoniker": "C:\\Personal\\portfolio-website\\backend\\server.js",
+              "RelativeDocumentMoniker": "backend\\server.js",
+              "ToolTip": "C:\\Personal\\portfolio-website\\backend\\server.js",
+              "RelativeToolTip": "backend\\server.js",
+              "ViewState": "AgIAAFIAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-06T14:17:42.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "certifications.json",
+              "DocumentMoniker": "C:\\Personal\\portfolio-website\\build\\storage\\sanjay\\certifications.json",
+              "RelativeDocumentMoniker": "build\\storage\\sanjay\\certifications.json",
+              "ToolTip": "C:\\Personal\\portfolio-website\\build\\storage\\sanjay\\certifications.json",
+              "RelativeToolTip": "build\\storage\\sanjay\\certifications.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-06T14:17:07.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "about.json",
+              "DocumentMoniker": "C:\\Personal\\portfolio-website\\build\\storage\\sanjay\\about.json",
+              "RelativeDocumentMoniker": "build\\storage\\sanjay\\about.json",
+              "ToolTip": "C:\\Personal\\portfolio-website\\build\\storage\\sanjay\\about.json",
+              "RelativeToolTip": "build\\storage\\sanjay\\about.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-06T14:17:06.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "About.js",
+              "DocumentMoniker": "C:\\Personal\\portfolio-website\\src\\components\\About.js",
+              "RelativeDocumentMoniker": "src\\components\\About.js",
+              "ToolTip": "C:\\Personal\\portfolio-website\\src\\components\\About.js",
+              "RelativeToolTip": "src\\components\\About.js",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwBEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-06T14:16:58.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Personal\\portfolio-website\\public\\index.html",
+              "RelativeDocumentMoniker": "public\\index.html",
+              "ToolTip": "C:\\Personal\\portfolio-website\\public\\index.html",
+              "RelativeToolTip": "public\\index.html",
+              "ViewState": "AgIAABEAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-06T14:16:43.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "profile.jpg",
+              "DocumentMoniker": "C:\\Personal\\portfolio-website\\build\\images\\profile.jpg",
+              "RelativeDocumentMoniker": "build\\images\\profile.jpg",
+              "ToolTip": "C:\\Personal\\portfolio-website\\build\\images\\profile.jpg",
+              "RelativeToolTip": "build\\images\\profile.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-10-06T14:10:32.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "profilePic.jpg",
+              "DocumentMoniker": "C:\\Personal\\portfolio-website\\public\\images\\profilePic.jpg",
+              "RelativeDocumentMoniker": "public\\images\\profilePic.jpg",
+              "ToolTip": "C:\\Personal\\portfolio-website\\public\\images\\profilePic.jpg",
+              "RelativeToolTip": "public\\images\\profilePic.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-10-06T14:10:28.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "imageclass.jpg",
               "DocumentMoniker": "C:\\Personal\\portfolio-website\\build\\images\\imageclass.jpg",
               "RelativeDocumentMoniker": "build\\images\\imageclass.jpg",
               "ToolTip": "C:\\Personal\\portfolio-website\\build\\images\\imageclass.jpg",
               "RelativeToolTip": "build\\images\\imageclass.jpg",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-10-06T14:01:47.685Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T14:01:47.685Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 2,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Personal\\portfolio-website\\build\\index.html",
               "RelativeDocumentMoniker": "build\\index.html",
               "ToolTip": "C:\\Personal\\portfolio-website\\build\\index.html",
               "RelativeToolTip": "build\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAACyAQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-10-06T14:01:34.788Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "asset-manifest.json",
               "DocumentMoniker": "C:\\Personal\\portfolio-website\\build\\asset-manifest.json",
               "RelativeDocumentMoniker": "build\\asset-manifest.json",
@@ -456,12 +471,11 @@
               "RelativeToolTip": "build\\asset-manifest.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-06T14:01:31.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T14:01:31.36Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "videos.json",
               "DocumentMoniker": "C:\\Personal\\portfolio-website\\build\\storage\\videos.json",
               "RelativeDocumentMoniker": "build\\storage\\videos.json",
@@ -469,12 +483,11 @@
               "RelativeToolTip": "build\\storage\\videos.json",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-06T14:01:21.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T14:01:21.599Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "skills.json",
               "DocumentMoniker": "C:\\Personal\\portfolio-website\\build\\storage\\skills.json",
               "RelativeDocumentMoniker": "build\\storage\\skills.json",
@@ -482,12 +495,11 @@
               "RelativeToolTip": "build\\storage\\skills.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-06T14:00:25.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T14:00:25.846Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "services.json",
               "DocumentMoniker": "C:\\Personal\\portfolio-website\\build\\storage\\services.json",
               "RelativeDocumentMoniker": "build\\storage\\services.json",
@@ -495,12 +507,11 @@
               "RelativeToolTip": "build\\storage\\services.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-06T14:00:12.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T14:00:12.219Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "reviews.json",
               "DocumentMoniker": "C:\\Personal\\portfolio-website\\build\\storage\\reviews.json",
               "RelativeDocumentMoniker": "build\\storage\\reviews.json",
@@ -508,12 +519,11 @@
               "RelativeToolTip": "build\\storage\\reviews.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-06T13:59:49.453Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T13:59:49.453Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "resume.json",
               "DocumentMoniker": "C:\\Personal\\portfolio-website\\build\\storage\\resume.json",
               "RelativeDocumentMoniker": "build\\storage\\resume.json",
@@ -521,12 +531,11 @@
               "RelativeToolTip": "build\\storage\\resume.json",
               "ViewState": "AgIAADwAAAAAAAAAAAAAAEAAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-06T13:56:04.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T13:56:04.07Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "projects.json",
               "DocumentMoniker": "C:\\Personal\\portfolio-website\\build\\storage\\projects.json",
               "RelativeDocumentMoniker": "build\\storage\\projects.json",
@@ -534,12 +543,11 @@
               "RelativeToolTip": "build\\storage\\projects.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-06T13:55:49.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T13:55:49.017Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "experience.json",
               "DocumentMoniker": "C:\\Personal\\portfolio-website\\build\\storage\\experience.json",
               "RelativeDocumentMoniker": "build\\storage\\experience.json",
@@ -547,12 +555,11 @@
               "RelativeToolTip": "build\\storage\\experience.json",
               "ViewState": "AgIAACcAAAAAAAAAAAAAADEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-06T13:44:44.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T13:44:44.063Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "education.json",
               "DocumentMoniker": "C:\\Personal\\portfolio-website\\build\\storage\\education.json",
               "RelativeDocumentMoniker": "build\\storage\\education.json",
@@ -560,12 +567,11 @@
               "RelativeToolTip": "build\\storage\\education.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-06T13:44:28.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T13:44:28.52Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "contact.json",
               "DocumentMoniker": "C:\\Personal\\portfolio-website\\build\\storage\\contact.json",
               "RelativeDocumentMoniker": "build\\storage\\contact.json",
@@ -573,12 +579,11 @@
               "RelativeToolTip": "build\\storage\\contact.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-06T13:43:18.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T13:43:18.053Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "certifications.json",
               "DocumentMoniker": "C:\\Personal\\portfolio-website\\build\\storage\\certifications.json",
               "RelativeDocumentMoniker": "build\\storage\\certifications.json",
@@ -586,12 +591,11 @@
               "RelativeToolTip": "build\\storage\\certifications.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-06T13:43:06.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T13:43:06.559Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "blogs.json",
               "DocumentMoniker": "C:\\Personal\\portfolio-website\\build\\storage\\blogs.json",
               "RelativeDocumentMoniker": "build\\storage\\blogs.json",
@@ -599,12 +603,11 @@
               "RelativeToolTip": "build\\storage\\blogs.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-06T13:42:57.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T13:42:57.358Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "achievements.json",
               "DocumentMoniker": "C:\\Personal\\portfolio-website\\build\\storage\\achievements.json",
               "RelativeDocumentMoniker": "build\\storage\\achievements.json",
@@ -612,12 +615,11 @@
               "RelativeToolTip": "build\\storage\\achievements.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-05T08:53:03.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T08:53:03.312Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "about.json",
               "DocumentMoniker": "C:\\Personal\\portfolio-website\\build\\storage\\about.json",
               "RelativeDocumentMoniker": "build\\storage\\about.json",
@@ -625,8 +627,7 @@
               "RelativeToolTip": "build\\storage\\about.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-03T12:50:49.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-03T12:50:49.584Z"
             }
           ]
         }
