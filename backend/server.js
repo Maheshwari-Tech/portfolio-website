@@ -24,7 +24,7 @@ app.post('/api/feedback', async (req, res) => {
 
   const mailOptions = {
     from: email,
-    to: 'sanjaymaheshwari.work@gmail.com',
+    to: 'shalinithebaria.work@gmail.com',
     subject: `Portfolio Feedback from ${name}`,
     text: `Name: ${name}\nEmail: ${email}\n\nMessage:\n${message}`
   };
@@ -44,7 +44,7 @@ app.post('/api/subscribe', async (req, res) => {
 
   const mailOptions = {
     from: process.env.EMAIL_USER,
-    to: 'sanjaymaheshwari.work@gmail.com',
+    to: 'shalinithebaria.work@gmail.com',
     subject: 'New Newsletter Subscription',
     text: `New subscriber: ${email}`
   };
@@ -64,7 +64,7 @@ app.post('/api/appointment', async (req, res) => {
 
   const mailOptions = {
     from: email,
-    to: 'sanjaymaheshwari.work@gmail.com',
+    to: 'shalinithebaria.work@gmail.com',
     subject: `Appointment Request from ${name}`,
     text: `Name: ${name}\nEmail: ${email}\nDate: ${date}\nTime: ${time}\nMessage: ${message}`
   };

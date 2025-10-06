@@ -1,0 +1,16 @@
+﻿{
+  "introduction": "Software Engineer with 5+ years of experience across Microsoft, DP World, Amazon, and Rakuten India, specializing in the design and optimization of scalable backend systems and cloud-native applications. Proven track record in transforming legacy platforms into robust microservices, automating critical health checks and alerts for Azure Storage, and optimizing high-impact financial systems to improve performance and resilience. Highly skilled in Java, Spring Boot, Kafka, SQL, AWS/Azure, and passionate about mentoring, problem-solving, and driving technical excellence through innovative solutions, process improvements, and collaborative teamwork",
+  "image": "/images/profilePic.jpg",
+  "socialProfiles": {
+    "linkedin": "https://linkedin.com/in/shalini-thebaria",
+    "github": "https://github.com/thebaria04",
+    "youtube": "https://youtube.com/@shalinithebaria",
+    "email": "shalinithebaria.work@gmail.com",
+    "leetcode": "https://leetcode.com/thebaria04",
+    "codechef": "https://codechef.com/users/thebaria04",
+    "hackerrank": "https://hackerrank.com/thebaria04",
+    "codeforces": "https://codeforces.com/profile/thebaria04",
+    "spoj": "https://spoj.com/users/thebaria04",
+    "kaggle": "https://kaggle.com/thebaria04"
+  }
+}

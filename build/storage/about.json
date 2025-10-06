@@ -1,16 +1,12 @@
 {
-  "introduction": "Experienced Software Engineer with 5+ years of expertise in backend systems, distributed architectures, and cloud-native solutions. Certified Bar Raiser at Oracle, recognized for upholding technical excellence and guiding high-quality hiring decisions. Proven ability to design scalable systems in healthcare, education, and finance domains using Java, Python, Kafka, and OCI/AWS. Specialized in machine learning, applying techniques such as anomaly detection and generative AI to solve real-world problems and enhance system intelligence. Passionate about mentoring juniors, solving complex problems, and driving product impact through innovative technologies and continuous learning.",
-  "image": "/images/profile.jpg",
+  "introduction": "Software Engineer with 5+ years of experience across Microsoft, DP World, Amazon, and Rakuten India, specializing in the design and optimization of scalable backend systems and cloud-native applications. Proven track record in transforming legacy platforms into robust microservices, automating critical health checks and alerts for Azure Storage, and optimizing high-impact financial systems to improve performance and resilience. Highly skilled in Java, Spring Boot, Kafka, SQL, AWS/Azure, and passionate about mentoring, problem-solving, and driving technical excellence through innovative solutions, process improvements, and collaborative teamwork",
+  "image": "/images/profilePic.jpg",
   "socialProfiles": {
-    "linkedin": "https://linkedin.com/in/snjumaheshwari",
-    "github": "https://github.com/snjumaheshwari",
-    "youtube": "https://youtube.com/@sanjaygandhi",
-    "email": "sanjaymaheshwari.work@gmail.com",
-    "leetcode": "https://leetcode.com/snjumaheshwari",
-    "codechef": "https://codechef.com/users/snjumaheshwari",
-    "hackerrank": "https://hackerrank.com/snjumaheshwari",
-    "codeforces": "https://codeforces.com/profile/snjumaheshwari",
-    "spoj": "https://spoj.com/users/snjumaheshwari",
-    "kaggle": "https://kaggle.com/snjumaheshwari"
+    "linkedin": "https://linkedin.com/in/shalini-thebaria",
+    "github": "https://github.com/thebaria04",
+    "youtube": "https://youtube.com/@shalinithebaria",
+    "email": "shalinithebaria.work@gmail.com",
+    "leetcode": "https://leetcode.com/thebaria04",
+    "codechef": "https://codechef.com/users/thebaria04"
   }
 }

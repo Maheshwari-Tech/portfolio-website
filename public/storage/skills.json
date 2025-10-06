@@ -1,18 +1,18 @@
 {
   "programmingFrameworks": [
-    "Java", "Python", "C++", "JavaScript", "React", "HTML", "CSS", "JS", "MERN", "Django", "PHP"
+    "Java", "Python", "C++", "JavaScript", "React", "HTML", "CSS", "JS"
   ],
   "databases": [
-    "MySQL", "DynamoDB", "Elasticsearch", "Redis", "S3", "Redshift (OLAP)", "MongoDB"
+    "MySQL", "DynamoDB", "CosmosDB", "MongoDB"
   ],
   "machineLearningAI": [
     "Numpy", "Pandas", "Scikit-Learn", "Random Forest", "SVM"
   ],
   "distributedSystemsCloud": [
-    "Kafka", "SQS", "gRPC", "WebSockets", "AWS", "OCI", "Docker"
+    "Kafka", "SQS", "WebSockets", "AWS", "Azure", "Docker"
   ],
   "tools": [
-    "Git", "GitHub", "IntelliJ", "VSCode", "Postman", "MobaXTerm", "SQL Workbench", "Jenkins"
+    "Git", "GitHub", "IntelliJ", "VSCode", "Postman", "Jenkins", "EV2"
   ],
   "softwareDevelopment": [
     "System Design", "Design Patterns", "Refactoring", "APIs", "Unit Tests", "Documentation", "Teaching", "Mentoring", "Code Reviews"

@@ -15,7 +15,7 @@ function About() {
       <h2>About Me</h2>
       <div className="about-content">
         <div className="about-image">
-          <img src={about.image} alt="Sanjay Gandhi" />
+          <img src={about.image} alt="Shalini Thebaria" />
         </div>
         <div className="about-text">
           <p>{about.introduction}</p>

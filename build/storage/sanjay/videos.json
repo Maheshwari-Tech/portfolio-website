@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to React Hooks",
+    "description": "Learn the basics of React Hooks and how to use them in your projects.",
+    "thumbnail": "/images/react-hooks.jpg",
+    "url": "https://youtube.com/watch?v=example1"
+  },
+  {
+    "id": 2,
+    "title": "Machine Learning with Python",
+    "description": "A comprehensive guide to getting started with machine learning using Python.",
+    "thumbnail": "/images/ml-python.jpg",
+    "url": "https://youtube.com/watch?v=example2"
+  },
+  {
+    "id": 3,
+    "title": "System Design Interview Tips",
+    "description": "Tips and tricks for acing system design interviews at top tech companies.",
+    "thumbnail": "/images/system-design.jpg",
+    "url": "https://youtube.com/watch?v=example3"
+  },
+  {
+    "id": 4,
+    "title": "Building REST APIs with Node.js",
+    "description": "Step-by-step tutorial on creating RESTful APIs using Node.js and Express.",
+    "thumbnail": "/images/rest-apis.jpg",
+    "url": "https://youtube.com/watch?v=example4"
+  }
+]

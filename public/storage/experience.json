@@ -1,38 +1,51 @@
 [
   {
-    "title": "Senior Member of Technical Staff (SDE-3) at Oracle",
-    "period": "April 2024 – Present, Bengaluru (Remote)",
+    "title": "Software Engineer II at Microsoft",
+    "period": "July 2025 – Present, Bengaluru",
     "details": [
-      "Working in Healthcare domain in XR team responsible for Clinical Reporting and output management.",
-      "Architected and implemented mro-gen-services, a Java Micronaut-based solution for generating medical record outputs.",
-      "Migrated Cerner enterprise applications to a modern architecture.",
-      "Built and led the India Clinical Reporting team."
+      "Working with azure storage- capacity management.",
+      "Integrated health check validation in every services from scratch. Technology used- EV2, Geneva, KQL",
+      "Creating the feedback loop for all the services which will help with triggering the alerts when guardrails are not matched.- Technology used- Logic Apps, KQL"
     ]
   },
   {
-    "title": "Software Engineer-2 at Google",
-    "period": "Sept 2021 – Feb 2024, Bangalore (Hybrid)",
+    "title": "Software Engineer at DP World",
+    "period": "July 2023 – July 2025, Bangalore",
     "details": [
-      "Worked in Search India Education Team, developing features for exam OSRPs.",
-      "Built the Exam Quiz feature and migrated architecture.",
-      "Launched localized Exam OSRP with support for multiple languages."
+      "Worked with master data management team, which is a centralized repository used by mostly other teams in DP world and also by consumers.",
+      "Migrated code from c Sharp to java and made microservices from scratch and took it live in less than a year",
+      "Worked with Cargoes Runner platform focused on global logistics, handling end-to-end taxation and billing systems.",
+      "Built and launched critical services from scratch, including invoice generation, tax validation, and ledger processing.",
+      "Led efforts to enhance system scalability, fault tolerance, and performance tuning for high availability",
+      "Optimized existing APIs to reduce response time to under 500ms (P95) from 2 Minute (P95), improving user experience and throughput.",
+      "Refactored complex SQL queries for better indexing and optimized joins, improving DB latency significantly"
     ]
   },
   {
     "title": "Software Development Engineer-1 at Amazon",
-    "period": "July 2020 – Aug 2021, Hyderabad",
+    "period": "March 2022 – Dec 2022, Hyderabad",
     "details": [
-      "Worked in Finance Automation Team to detect anomalies and duplicates in invoices.",
-      "Implemented ML-based rules discovering over 100M USD anomalies.",
-      "Built APIs, monitoring dashboards, and used AWS CDK."
+      "Revamped the RetroCharge system to support post-purchase billing adjustments for incorrect customer returns, saving Amazon up to 100 million.",
+      "Led design and development of MoveAndMerge, an automation pipeline to unify fragmented seller accounts across geographies, improving platform consistency and operational efficiency.",
+      "Integrated critical AWS services including Lambda, DynamoDB, SQS, and SNS into the system for a scalable architecture."
     ]
   },
   {
-    "title": "Problem Curator Intern at HackerEarth",
-    "period": "Jan 2020 – June 2020, Bangalore",
+    "title": "Associate Software Engineer at Rakuten India",
+    "period": "Sept 2020 – Jan 2022, Bangalore",
     "details": [
-      "Created and tested algorithmic problems for hiring contests.",
-      "Presented workshop on Advanced Data Structures and Algorithms."
+      "Developed and maintained microservices powering Rakuten’s large-scale e-commerce platform.",
+      "Contributed to engineering efforts through internal innovation sprints and team initiatives.",
+      "Mentored new interns through pair programming, weekly sync-ups, and code walkthroughs; also contributed to evaluating intern projects and extending offers."
+    ]
+  },
+  {
+    "title": "Technical Intern at Rakuten India",
+    "period": "Jan 2020 – Sept 2020, Bangalore",
+    "details": [
+      " Developed Text Examination Tool using Java 8 and Trie data structures to efficiently filter and block abusive or forbidden content from user reviews.",
+      "Built Notification Module using Java 8, Heroku, and MongoDB Cloud to send automated confirmations and post-booking support messages via social messaging platforms.",
+      "Engineered QR-based Login System similar to WhatsApp Web using Java 8, Spring Boot, Android, and ReactJS, allowing seamless cross-device authentication via QR codes"
     ]
   }
 ]
