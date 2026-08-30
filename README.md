@@ -1,4 +1,4 @@
-# Sanjay Gandhi - Portfolio Website
+# Shalini Thebaria - Portfolio Website
 
 A modern, responsive portfolio website built with React showcasing software engineering skills, projects, and professional experience.
 
