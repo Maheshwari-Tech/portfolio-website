@@ -163,10 +163,16 @@ h3 { line-height: 1.25; }
 .beyond-teaser b { padding: 13px 18px; border-radius: 8px; background: var(--coral); color: #fff; font-size: 13px; }
 
 footer { background: var(--ink); color: #fff; }
-.footer-inner { min-height: 100px; display: grid; grid-template-columns: 1fr 1fr auto; align-items: center; gap: 24px; color: #d8e2da; font-size: 12px; }
-.footer-inner > span:nth-child(2) { text-align: center; }
-.footer-inner div { display: flex; gap: 17px; }
+.footer-inner { min-height: 100px; display: grid; grid-template-columns: 1fr minmax(320px, 1.35fr) auto; align-items: center; gap: 24px; color: #d8e2da; font-size: 12px; }
+.footer-copyright { display: inline-flex; align-items: center; gap: 9px; }
+.footer-signature { text-align: center; }
+.footer-socials { display: flex; gap: 17px; }
 .footer-inner a { color: #fff; }
+.footer-heart { display: inline-block; color: var(--coral) !important; font-size: 15px; line-height: 1; text-decoration: none; transform-origin: center; transition: color .2s ease, transform .2s ease; }
+.footer-heart:hover, .footer-heart:focus-visible { color: #ff8e83 !important; transform: scale(1.15); }
+.secret-status-dot { width: 6px; height: 6px; flex: none; border-radius: 50%; transition: background-color .25s ease, box-shadow .25s ease; }
+.secret-status-dot.is-up { background: #64d878; box-shadow: 0 0 8px rgba(100,216,120,.6); }
+.secret-status-dot.is-down { background: #ef625f; box-shadow: 0 0 8px rgba(239,98,95,.5); }
 
 .back-link { margin-bottom: 52px; display: inline-flex; gap: 10px; align-items: center; text-decoration: none; font-weight: 600; font-size: 13px; }
 .beyond-hero { padding: 42px 0 78px; }
@@ -255,8 +261,7 @@ blockquote span { display: block; color: var(--coral); font-size: 70px; height: 
   .beyond-teaser b { grid-column: 1 / -1; text-align: center; }
   .beyond-teaser strong { font-size: 23px; }
   .footer-inner { padding: 28px 0; grid-template-columns: 1fr; text-align: center; }
-  .footer-inner > span:nth-child(2) { text-align: center; }
-  .footer-inner div { justify-content: center; }
+  .footer-copyright, .footer-socials { justify-content: center; }
   .beyond-hero { padding-top: 28px; }
   .back-link { margin-bottom: 40px; }
   .beyond-hero-grid h1 { font-size: 59px; }

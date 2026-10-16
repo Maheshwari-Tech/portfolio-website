@@ -56,6 +56,9 @@ const technologies = [
   ['fa-solid fa-cloud', 'Azure', 'blue']
 ];
 
+const BACKEND_HEALTH_URL = `${process.env.REACT_APP_API_URL || 'http://localhost:5110'}/api/health`;
+const BACKEND_POLL_INTERVAL_MS = 2 * 60 * 1000;
+
 const notes = [
   {
     title: 'System Design Principles',
@@ -298,7 +301,66 @@ function BeyondTechPage({ setRoute }) {
 }
 
 function Footer() {
-  return <footer><div className="shell footer-inner"><span>© 2026 Shalini Thebaria. All rights reserved.</span><span>Built with clarity, care, and conviction.</span><div><a href="https://linkedin.com/in/shalini-thebaria" aria-label="LinkedIn"><i className="fa-brands fa-linkedin" /></a><a href="https://github.com/thebaria04" aria-label="GitHub"><i className="fa-brands fa-github" /></a><a href="https://youtube.com/@shalinithebaria" aria-label="YouTube"><i className="fa-brands fa-youtube" /></a></div></div></footer>;
+  const [isBackendUp, setIsBackendUp] = useState(false);
+
+  useEffect(() => {
+    let isMounted = true;
+
+    const checkBackend = async () => {
+      const controller = new AbortController();
+      const timeoutId = window.setTimeout(() => controller.abort(), 5000);
+
+      try {
+        const response = await fetch(BACKEND_HEALTH_URL, {
+          cache: 'no-store',
+          signal: controller.signal
+        });
+
+        if (isMounted) setIsBackendUp(response.ok);
+      } catch {
+        if (isMounted) setIsBackendUp(false);
+      } finally {
+        window.clearTimeout(timeoutId);
+      }
+    };
+
+    checkBackend();
+    const intervalId = window.setInterval(checkBackend, BACKEND_POLL_INTERVAL_MS);
+
+    return () => {
+      isMounted = false;
+      window.clearInterval(intervalId);
+    };
+  }, []);
+
+  return (
+    <footer>
+      <div className="shell footer-inner">
+        <span className="footer-copyright">
+          © 2026 Shalini Thebaria. All rights reserved.
+          <span className={`secret-status-dot ${isBackendUp ? 'is-up' : 'is-down'}`} aria-hidden="true" />
+        </span>
+        <span className="footer-signature">
+          Built with Curiosity. Accelerated By AI. Inspired by{' '}
+          <a
+            className="footer-heart"
+            href="https://tech-lead.in"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="tech-lead.in"
+          >
+            ♥
+          </a>
+          .
+        </span>
+        <div className="footer-socials">
+          <a href="https://linkedin.com/in/shalini-thebaria" aria-label="LinkedIn"><i className="fa-brands fa-linkedin" /></a>
+          <a href="https://github.com/thebaria04" aria-label="GitHub"><i className="fa-brands fa-github" /></a>
+          <a href="https://youtube.com/@shalinithebaria" aria-label="YouTube"><i className="fa-brands fa-youtube" /></a>
+        </div>
+      </div>
+    </footer>
+  );
 }
 
 function App() {
