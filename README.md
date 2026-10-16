@@ -103,7 +103,7 @@ portfolio-website/
    ```
 
 5. **Open your browser**
-   Navigate to `http://localhost:3000`
+   Navigate to `http://localhost:4111`
 
 ## 📝 Data Management
 
